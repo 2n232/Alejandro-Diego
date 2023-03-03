@@ -1,0 +1,13 @@
+#info-about{
+    background-color: gray;
+    text-align:center;
+}
+
+#Projects-examples{
+    
+    background-color: plum;
+}
+
+#Projects-examples-picture{
+    display: flex;
+}
