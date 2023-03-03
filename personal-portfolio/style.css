@@ -4,10 +4,28 @@
 }
 
 #Projects-examples{
-    
+    align-items: center;
     background-color: plum;
 }
 
 #Projects-examples-picture{
-    display: flex;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding 1000px;
+    gap: 50px 100px;
+    
+}
+
+img{
+    
+    width: 50%;
+}
+h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.button{
+    text-align: center;
 }
